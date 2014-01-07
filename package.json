@@ -1,5 +1,5 @@
 {
-    "name": "scrypthash",
+    "name": "scrypt-hash",
     "version": "0.0.1",
     "main": "scrypthash",
     "author": {
@@ -8,6 +8,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "http://github.com/zone117x/node-scrypthash.git"
+        "url": "http://github.com/zone117x/node-scrypt-hash.git"
     }
 }
