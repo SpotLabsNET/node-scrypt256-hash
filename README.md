@@ -1,4 +1,4 @@
-node-scrypthash
+node-scrypt-hash
 ===============
 
 Scrypt hashing function for node.js
