@@ -1,5 +1,5 @@
 {
-    "name": "scrypt-hash",
+    "name": "scrypt256-hash",
     "version": "0.0.1",
     "main": "scrypthash",
     "author": {
@@ -8,6 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "http://github.com/zone117x/node-scrypt-hash.git"
-    }
+        "url": "http://github.com/zone117x/node-scrypt256-hash.git"
+    },
+    "keywords": [
+        "scrypt",
+        "hash",
+        "256",
+        "litecoin",
+        "crypto",
+        "cryptocurrency"
+    ]
 }

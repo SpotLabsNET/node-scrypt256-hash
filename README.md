@@ -1,4 +1,4 @@
-node-scrypt-hash
+node-scrypt256-hash
 ===============
 
 Scrypt hashing function for node.js
@@ -8,12 +8,12 @@ Usage
 
 Install
 
-    npm install scrypt-hash
+    npm install scrypt256-hash
 
 
 Hash your data
 
-    var scrypt = require('scrypt-hash');
+    var scrypt = require('scrypt256-hash');
 
     var data = new Buffer("hash me good bro");
     var hashed = scrypt.digest(data); //returns a 32 byte buffer
