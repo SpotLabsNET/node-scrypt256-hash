@@ -1,7 +1,7 @@
 node-scrypt256-hash
 ===============
 
-Scrypt hashing function for node.js
+Scrypt hashing function for node.js. Useful for various cryptocurrencies.
 
 Usage
 -----
