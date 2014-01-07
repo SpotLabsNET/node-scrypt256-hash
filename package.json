@@ -1,0 +1,13 @@
+{
+    "name": "scrypthash",
+    "version": "0.0.1",
+    "main": "scrypthash",
+    "author": {
+        "name": "Matthew Little",
+        "email": "zone117x@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/zone117x/node-scrypthash.git"
+    }
+}
