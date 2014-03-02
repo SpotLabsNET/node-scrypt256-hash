@@ -29,7 +29,7 @@
 
 #include "scrypt.h"
 #include <stdlib.h>
-#include <stdint.h>
+#include "stdint.h"
 #include <string.h>
 
 static __inline uint32_t
